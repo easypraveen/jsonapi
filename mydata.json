@@ -1,0 +1,62 @@
+[
+    {
+        "email":"anil@test.com",
+        "name":"Anil shidu",
+        "password": "anil@123",
+        "id":1
+    },
+    {
+        "email":"praveen@test.com",
+        "name":"praveen singh",
+        "password": "praveen@123",
+        "id":2
+    },
+    {
+        "email":"naveen@test.com",
+        "name":"naveen singh",
+        "password": "naveen@123",
+        "id":3
+    },
+    {
+        "email":"sunny@test.com",
+        "name":"sunny",
+        "password": "sunny@123",
+        "id":4
+    },
+    {
+        "email":"vishal@test.com",
+        "name":"Vishal singh",
+        "password": "vishal@123",
+        "id":5
+    },
+    {
+        "email":"ashu@test.com",
+        "name":"ashu singh",
+        "password": "ashu@123",
+        "id":6
+    },
+    {
+        "email":"dev@test.com",
+        "name":"dev raj",
+        "password": "dev@123",
+        "id":7
+    },
+    {
+        "email":"sundar@test.com",
+        "name":"sundaram",
+        "password": "sundar@123",
+        "id":8
+    },
+    {
+        "email":"prathvi@test.com",
+        "name":"prathvi singh",
+        "password": "prathvi@123",
+        "id":9
+    },
+    {
+        "email":"shatayam@test.com",
+        "name":"shatayam singh",
+        "password": "shatayam@123",
+        "id":10
+    }
+]
